@@ -12,7 +12,7 @@ Yazýlým stajým süresince kullandýðým kod repom
 
 
 # Instalition
-Projelerin kodlarýna ulaþmak için ömcelikle repoyu klonlayýn
+Projelerin kodlarýna ulaþmak için öncelikle repoyu klonlayýn
 
 
  ```git clone https://github.com/semanurmasum/staj.git```
